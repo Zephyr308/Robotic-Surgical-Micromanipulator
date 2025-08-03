@@ -19,7 +19,6 @@ While the primary focus of this project is on **mechanical design and performanc
 ```plaintext
 firmware/
 ├── /src           # Minimal scripts for motor and sensor control
-├── 
 └── README.md      # This documentation file
 ```
 ## ⚠️ Note
