@@ -2,7 +2,7 @@
 
 ## 🔬 What is a Micromanipulator?
 
-A **micromanipulator** is a precision mechanical device designed to control fine-scale movements of surgical or experimental tools—often at sub-millimeter resolutions. In surgical robotics, micromanipulators allow a surgeon to interact with small, delicate structures, such as nerves or blood vessels, while filtering out hand tremors and enhancing movement precision.
+A **micromanipulator** is a precision mechanical device designed to control fine-scale movements of surgical or experimental tools often at sub-millimeter resolutions. In surgical robotics, micromanipulators allow a surgeon to interact with small, delicate structures, such as nerves or blood vessels, while filtering out hand tremors and enhancing movement precision.
 
 These devices are core components in microsurgical systems used in:
 
