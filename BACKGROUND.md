@@ -15,7 +15,7 @@ These devices are core components in microsurgical systems used in:
 
 ## 🧲 Importance of Miniaturization
 
-<img src="docs/images/micro_tweezer_example.jpg" alt="Micro Tweezer Example" width="400"/>
+<img src="docs/images/micro_tweezer_example.png" alt="Micro Tweezer Example" width="400"/>
 
 *Example: Miniaturized micro-tweezer gripper used for manipulating small biological samples.*
 
