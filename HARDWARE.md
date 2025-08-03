@@ -2,6 +2,8 @@
 
 ## 🧩 CAD System Architecture
 
+<img src="docs/images/CAD_MODEL.png" alt="Hardware Schematics" width="450"/>
+
 The mechanical design consists of two integrated subsystems:
 
 1. **Compliant Gripper End-Effector**  
