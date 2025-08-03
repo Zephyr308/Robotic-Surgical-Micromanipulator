@@ -47,7 +47,6 @@ Initial experimental results indicate that the integrated design:
 ```graphql
 ├── /hardware_designs # CAD models, STL files, and mechanism schematics
 ├── /simulation_models # Finite element and kinematic simulation scripts
-├── /firmware # Embedded code for motor and sensor control
 ├── /experiments # Data, procedures, and analysis scripts
 ├── /docs # Reports, diagrams, and project documentation
 └── README.md
@@ -63,11 +62,6 @@ Initial experimental results indicate that the integrated design:
 
 ---
 
-## 📜 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
 
 ## 🤝 Acknowledgements
 
