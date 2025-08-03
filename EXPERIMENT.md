@@ -9,7 +9,7 @@ This file documents the evaluation of the compliant gripper and wrist system, fo
 **Purpose:**  
 To validate the gripper’s ability to passively adapt to different object shapes and sizes using compliant mechanics. An additional overload force was applied to test the contact force behavior and structural integrity.
 
-<img src="docs/images/CAD_MODEL.png" alt="Hardware Schematics" width="450"/>
+<img src="docs/images/gripper_grasp.png" alt="Grasping test" width="450"/>
 *Figure 1: The compliant gripper grasping various objects — demonstrating shape adaptability under load.*
 
 ---
@@ -34,11 +34,18 @@ The compliant mechanism includes a **constant-force mechanism**, designed to out
 ## 📐 3. Range of Motion (RoM) Characterization
 
 **Purpose:**  
-To measure the operational range of the integrated wrist-gripper system in free space.
+To visually summarize the degrees of freedom and motion ranges achieved by the integrated wrist and gripper assembly.
 
-<img src="docs/images/CAD_MODEL.png" alt="Hardware Schematics" width="450"/>
+<img src="docs/images/range_table.png" alt="Range of Motion" width="450"/> 
+*Figure 2: Table showing the measured range of motion of the end-effector across its active degrees of freedom.*
 
 
+## 📈 Future Additions
+
+- High-speed footage of object release under load  
+- Analysis of deformation zones during contact  
+- Integration with haptic feedback control trials  
+- Error bands for force consistency across trials
 
 
 ---
