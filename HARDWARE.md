@@ -41,6 +41,8 @@ The CAD implementation focuses on **monolithic**, **lightweight**, and **precisi
 
 ## 🤖 Parallel Wrist Transmission
 
+<img src="docs/images/wrist_articulation.png" alt="Wrist Transmission" width="450"/>
+
 ### Why Parallel Kinematics?
 
 The wrist uses a **spherical parallel platform**, offering:
@@ -91,11 +93,15 @@ Compliant transmission systems offer mechanical advantages that suit delicate su
 
 **Gripper Control Logic:**
 
+<img src="docs/images/gripper_logic.png" alt="Compliant Gripper Concept" width="450"/>
+
 1. **Passive finger** makes first contact (self-centering).
 2. **Active finger** then engages to complete grasp.
 3. Grasp stability relies on **inherent compliance + friction**.
 
 **Wrist Articulation Concept:**
+
+<img src="docs/images/wrist_orientation.png" alt="Wrist articulation Concept" width="450"/>
 
 - 2-DOF spherical orientation via flexure-based Agile Eye variant
 - 1 DOF axial rotation from the transmission tube
