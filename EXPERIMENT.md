@@ -12,6 +12,7 @@ To validate the gripper’s ability to passively adapt to different object shape
 <img src="docs/images/gripper_grasp.png" alt="Grasping test" width="450"/>
 *Figure 1: The compliant gripper grasping various objects — demonstrating shape adaptability under load.*
 
+
 ---
 
 ## ⚙️ 2. Constant-Force Mechanism (CFM)
