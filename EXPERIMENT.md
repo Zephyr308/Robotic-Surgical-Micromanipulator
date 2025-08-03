@@ -9,7 +9,7 @@ This file documents the evaluation of the compliant gripper and wrist system, fo
 **Purpose:**  
 To validate the gripper’s ability to passively adapt to different object shapes and sizes using compliant mechanics. An additional overload force was applied to test the contact force behavior and structural integrity.
 
-![Gripper Adaptability Test](./images/gripper_adaptability_test.jpg)  
+<img src="docs/images/CAD_MODEL.png" alt="Hardware Schematics" width="450"/>
 *Figure 1: The compliant gripper grasping various objects — demonstrating shape adaptability under load.*
 
 ---
@@ -36,7 +36,7 @@ The compliant mechanism includes a **constant-force mechanism**, designed to out
 **Purpose:**  
 To measure the operational range of the integrated wrist-gripper system in free space.
 
-![Range of Motion Table](./images/range_of_motion_table.jpg)  
+<img src="docs/images/CAD_MODEL.png" alt="Hardware Schematics" width="450"/>
 
 
 
