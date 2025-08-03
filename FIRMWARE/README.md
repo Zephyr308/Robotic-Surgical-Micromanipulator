@@ -14,13 +14,6 @@ While the primary focus of this project is on **mechanical design and performanc
 
 ---
 
-## 📁 Directory Structure
-
-```plaintext
-firmware/
-├── /src           # Minimal scripts for motor and sensor control
-└── README.md      # This documentation file
-```
 ## ⚠️ Note
 
 This firmware is **not optimized for production or closed-loop precision**. It is intended solely for **prototyping and motion testing** of the mechanical assemblies.
